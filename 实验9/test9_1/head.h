@@ -1,0 +1,1 @@
+int search(int A[],int x,int n);
